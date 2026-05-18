@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+  color: aliceblue;
+}
+h1{
+  color: red;
+  text-decoration: none;
+  text-align: center;
+  font-family: Compacta Bold;
+  font-size: 60px;
+}
+.images1 {
+  width: 40px;
+}
+.img2 {
+  width: 90px;
+  
+}
+.refs{
+  font-size: 30px;
+}
+.img3{
+  width: 200px;
+}
+.img4{
+  width: 300px;
+}
