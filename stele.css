@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: aliceblue;
+  }
+  h1{
+    color: darkred;
+    text-decoration: none;
+    text-align: center;
+    font-family: Arial;
+    font-size: 60px;
+  }
+  .images1 {
+    width: 40px;
+  }
+  .img2 {
+    width: 90px;
+    
+  }
+  .refs{
+    font-size: 30px;
+    color: darkred;
+  }
+  .img3{
+    width: 200px;
+  }
+  .img4{
+    width: 300px;
+  }
+  a{
+    color: darkred;
+    text-decoration: none;
+    font-family: Arial;
+  }
