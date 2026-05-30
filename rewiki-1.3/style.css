@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+  color: aliceblue;
+  font-family: "Inter", sans-serif;
+}
+
+header{
+  background-color: darkred;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  text-transform: uppercase;
+  font-family: "Fjalla One", sans-serif;
+}
+
+nav{
+  background-color: darkred;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+a{
+  text-transform: capitalize;
+  color: black;
+}
+
+a:hover{
+  cursor: pointer;
+}
+
+h1{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  text-align: center;
+  font-size: 60px;
+}
+.images1 {
+  width: 60px;
+}
+.img2 {
+  width: 90px;
+  
+}
+.refs{
+  font-size: 30px;
+}
+.img3{
+  width: 200px;
+}
+.img4{
+  width: 300px;
+}
+
+
+h1:hover{
+  cursor: not-allowed;
+}
+footer{
+  background-color: darkred;
+}
